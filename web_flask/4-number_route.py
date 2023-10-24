@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Flask framework
+"""A script that starts a Flask web application
 """
 from flask import Flask
 
